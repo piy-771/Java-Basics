@@ -19,6 +19,6 @@ public class GFGFrequenciesOfLimitedRangeArrayElements {
                 arr[i] = temp;
             }
         }
-        System.out.println(Arrays.toString(ans));
+       // System.out.println(Arrays.toString(ans));
     }
 }
