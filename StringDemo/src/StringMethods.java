@@ -16,7 +16,7 @@ public class StringMethods {
         System.out.println(string.indexOf("Java",10));
         System.out.println(string.indexOf(69));
         System.out.println(string.startsWith("HEl"));
-        string.contains(k)
+       // string.contains(k)
    if(!string.contains("k")){
        System.out.println("success");
 
