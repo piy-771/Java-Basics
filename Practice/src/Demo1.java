@@ -1,6 +1,6 @@
 //import java.util.ArrayList;
 //
-//public class Demo1 {
+public class Demo1 {
 //    public static void main(String[] args) {
 //        //int[] arr = {2,5,6,1,4};
 ////        ArrayList<Integer> arr = new ArrayList<>();
@@ -87,4 +87,4 @@
 //
 //
 //    }
-//}
+}
